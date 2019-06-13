@@ -1,5 +1,5 @@
 {
-  "name": "ref-array",
+  "name": "@saleae/ref-array",
   "description": "Create C \"array\" instances on top of Buffers",
   "keywords": [
     "array",
@@ -19,7 +19,7 @@
   "dependencies": {
     "array-index": "1",
     "debug": "4",
-    "ref": "ranihorev/ref#node-12"
+    "ref": "@saleae/ref"
   },
   "devDependencies": {
     "bindings": "1",
